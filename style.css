@@ -70,7 +70,6 @@ section.normal {
 section.imagem {
     background-color: pink;
     color: white; 
-    box-shadow: inset 6px 6px 12px 0px rgba(0, 0, 0, 0.512);
     background-size: cover;  
     background-attachment: fixed;
 }
