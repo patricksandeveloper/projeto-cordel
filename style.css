@@ -73,8 +73,6 @@ section.imagem {
     box-shadow: inset 6px 6px 12px 0px rgba(0, 0, 0, 0.512);
     background-size: cover;  
     background-attachment: fixed;
-    transform: translate3d(0, 0, 0); 
-    -webkit-font-smoothing: subpixel-antialiased;
 }
 
 section.imagem > p {
